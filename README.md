@@ -1,5 +1,4 @@
 # Putty Tunnel Manager
-putty-tunnel-manager with that fixes :)
 
 Easily open tunnels, from any PuTTY session, from your system tray.
 
@@ -7,6 +6,7 @@ PuTTY Tunnel Manager allows you to easily open tunnels, that are defined in a Pu
 
 # Features
 
+* **Auto restart broken sessions and auto start some sessions on program startup**
 * Created specifically for tunneling over SSH sessions
 * Open and close sessions from the system tray
 * Works alongside PuTTY and Pageant, using Plink
@@ -18,4 +18,9 @@ PuTTY Tunnel Manager allows you to easily open tunnels, that are defined in a Pu
 * One file, small size, with a cool icon
 
 # Source
-The original source code comes from https://code.google.com/archive/p/putty-tunnel-manager/
+
+The original source code by Joeri Bekker from https://code.google.com/archive/p/putty-tunnel-manager/
+
+Auto restart code and many fixes by kostapc https://github.com/kostapc/Putty-Tunnel-Manager
+
+And my small changes.
